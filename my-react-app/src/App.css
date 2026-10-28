@@ -1,0 +1,11 @@
+.people-container {
+  display: flex;
+}
+
+.people-ul {
+  list-style: none;
+}
+
+.people-li {
+  margin: 5px;
+}
